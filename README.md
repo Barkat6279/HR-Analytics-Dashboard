@@ -91,6 +91,13 @@ The dashboard helps identify:
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 Screenshots of the individual Power BI visualizations are included in
 the `screenshots` folder.
+The repository includes screenshots of the individual Power BI visualizations.
+
+The complete Power BI dashboard is available in `HR_Analytics_Dashboard.pbix`.
+
+The project documentation is available in `HR_Analytics_Project_Report.docx` and `HR_Analytics_Project_Requirements.docx`.
+
+The PowerPoint presentation is available in `HR_Analytics_Presentation.pptx`.
 
 The complete Power BI dashboard is available in the `dashboard` folder.
 
