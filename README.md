@@ -1,4 +1,4 @@
-# HR Analytics Dashboard -- Power BI
+ HR Analytics Dashboard -- Power BI
 
 ## 📊 Project Overview
 
@@ -105,6 +105,6 @@ explain the project and its findings.
 
 ## 👤 Author
 
-**Barkat**
+** Mallela mohammad Barkat**
 
 Data Analytics \| Power BI \| SQL \| Excel
