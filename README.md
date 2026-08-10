@@ -88,6 +88,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 Screenshots of the individual Power BI visualizations are included in
 the `screenshots` folder.
 
