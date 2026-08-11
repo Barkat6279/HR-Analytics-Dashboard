@@ -1,118 +1,162 @@
- HR Analytics Dashboard -- Power BI
+\# Medical Data History — SQL Project
 
-## 📊 Project Overview
 
-This project is an HR Analytics dashboard developed using Microsoft
-Power BI to analyze employee workforce data and provide useful business
-insights.
 
-The dashboard focuses on workforce composition, hiring trends, employee
-demographics, work location, department distribution, and workforce
-diversity.
+\## 📌 Project Overview
 
-## 🎯 Project Objectives
 
--   Analyze the total employee workforce.
--   Compare HQ and remote employees.
--   Calculate average employee age.
--   Analyze employee hiring trends over time.
--   Understand gender representation.
--   Analyze workforce distribution by state.
--   Analyze employee distribution across departments.
--   Examine workforce diversity by race.
--   Present key findings through an interactive Power BI dashboard.
 
-## 🛠️ Tools & Technologies
+This project focuses on analyzing medical and patient data using SQL.
 
--   Microsoft Power BI
--   DAX
--   Data visualization
--   Data analysis
--   Microsoft Word
--   Microsoft PowerPoint
 
-## 📈 Dashboard KPIs
 
-The final dashboard includes:
+The project was completed using MySQL to solve a series of SQL-based data analysis questions. The queries demonstrate practical SQL skills such as filtering, sorting, aggregation, joins, subqueries, and data analysis.
 
--   Total Employees
--   HQ %
--   Remote %
--   Average Age
 
-## 📊 Dashboard Visualizations
 
-The dashboard contains:
+\## 🎯 Project Objectives
 
-1.  Employee Hiring Trend (2000--2020)
-2.  Workforce Distribution by State
-3.  Department-wise Employee Distribution
-4.  Gender Representation
-5.  Workforce Diversity by Race
 
-## 📁 Project Structure
 
-``` text
-HR-Analytics-PowerBI/
+\- Analyze patient medical information.
+
+\- Retrieve specific patient records using SQL.
+
+\- Filter data based on medical conditions and patient attributes.
+
+\- Analyze hospital admissions and doctors' information.
+
+\- Work with multiple related tables.
+
+\- Apply SQL functions and conditions to answer medical data questions.
+
+\- Practice writing SQL queries for data analysis.
+
+
+
+\## 🗄️ Database Tables
+
+
+
+The project database contains the following tables:
+
+
+
+\- `patients`
+
+\- `doctors`
+
+\- `admissions`
+
+\- `province\_names`
+
+\- `patient\_names`
+
+
+
+\## 🛠️ Tools \& Technologies
+
+
+
+\- MySQL
+
+\- MySQL Workbench
+
+\- SQL
+
+
+
+\## 📚 SQL Concepts Used
+
+
+
+\- SELECT
+
+\- WHERE
+
+\- ORDER BY
+
+\- GROUP BY
+
+\- HAVING
+
+\- DISTINCT
+
+\- LIKE
+
+\- BETWEEN
+
+\- IS NULL
+
+\- Aggregate Functions
+
+\- String Functions
+
+\- Date Functions
+
+\- INNER JOIN
+
+\- LEFT JOIN
+
+\- Subqueries
+
+\- CASE statements
+
+\- Data filtering and analysis
+
+
+
+\## 🔍 Example Analysis
+
+
+
+Some of the SQL questions include:
+
+
+
+\- Finding patients based on gender.
+
+\- Finding patients without recorded allergies.
+
+\- Finding patients whose names begin with a specific letter.
+
+\- Filtering patients based on weight.
+
+\- Analyzing hospital admission records.
+
+\- Combining information from multiple medical tables.
+
+
+
+\## 📁 Project Structure
+
+
+
+```text
+
+Medical\_Data\_History/
+
 │
-├── dashboard/
-│   └── HR_Analytics_Dashboard.pbix
-│
-├── documentation/
-│   ├── PRDA-03 KPI analysis report.docx
-│   └── Project_Requirements.docx
-│
-├── presentation/
-│   └── HR analytics presentation.pptx
-│
-├── screenshots/
-│   ├── department_employee_distribution.png
-│   ├── employee_hiring_trend.png
-│   ├── gender_representation.png
-│   ├── workforce_distribution_by_state.png
-│   └── workforce_diversity_by_race.png
-│
+
+├── Medical\_Data\_History.sql
+
 └── README.md
-```
 
-## 💡 Key Insights
+💡 Key Learning Outcomes
 
-The dashboard helps identify:
 
--   Changes in hiring activity across different years.
--   The balance between HQ and remote employees.
--   Differences in employee representation across genders.
--   Departments with larger employee populations.
--   Geographic concentration of the workforce.
--   Workforce diversity across different racial groups.
 
-## 📷 Dashboard Preview
+Through this project, I practiced using SQL to work with relational medical data and developed practical skills in data retrieval, filtering, aggregation, and multi-table analysis.
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
-Screenshots of the individual Power BI visualizations are included in
-the `screenshots` folder.
-The repository includes screenshots of the individual Power BI visualizations.
 
-The complete Power BI dashboard is available in `HR_Analytics_Dashboard.pbix`.
 
-The project documentation is available in `HR_Analytics_Project_Report.docx` and `HR_Analytics_Project_Requirements.docx`.
+👤 Author
 
-The PowerPoint presentation is available in `HR_Analytics_Presentation.pptx`.
 
-The complete Power BI dashboard is available in the `dashboard` folder.
 
-## 📚 Documentation
+Mallela Mohammad Barkat
 
-The `documentation` folder contains the project report and the original
-project requirements/tasks.
 
-## 🎤 Presentation
 
-The `presentation` folder contains the PowerPoint presentation used to
-explain the project and its findings.
+Data Analytics | Power BI | SQL | Excel
 
-## 👤 Author
-
-** Mallela mohammad Barkat**
-
-Data Analytics \| Power BI \| SQL \| Excel
